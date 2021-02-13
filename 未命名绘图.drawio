@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T09:35:01.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="6JBqqEwoMaIQ1qEtaUsi" version="14.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-13T15:37:56.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="wVIkg8S3ZYeEbaGEj33W" version="14.3.1" type="github">
   <diagram id="VlLsC9m3_1XqTRsrqYUZ" name="Page-1">
     <mxGraphModel dx="2557" dy="1213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,14 +191,6 @@
         <mxCell id="JpuWKBtfFEKFHU9fNrxq-53" value="8被借了1之后，剩余7，需要向17借3" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;strokeWidth=3;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2083" y="1571.37" width="256" height="99.25" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="jqukf47hJeksSW66z2Y4" name="第 2 页">
-    <mxGraphModel dx="2014" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="4iyUD7GeV01Z5iJQr7pV-0" />
-        <mxCell id="4iyUD7GeV01Z5iJQr7pV-1" parent="4iyUD7GeV01Z5iJQr7pV-0" />
       </root>
     </mxGraphModel>
   </diagram>
