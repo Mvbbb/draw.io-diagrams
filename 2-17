@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T04:07:16.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="oWr5BJAOMiSlHnjG-M4Y" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T04:12:16.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="hxkY9TRsP3Yi9fdapgeV" version="14.3.2" type="github">
   <diagram id="1OfRyJY_cDBG9xb1xVqV" name="第 1 页">
-    <mxGraphModel dx="1502" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lY9HGWb-KgKex0W60Guv-1" value="&lt;pre style=&quot;font-family: monospace ; font-size: 0.875em ; margin: 0.5em 0px ; padding: 0.3em 0.5em ; border: 1px solid rgb(221 , 221 , 221) ; background: rgb(248 , 248 , 248) ; border-radius: 3px ; overflow: auto ; color: rgba(0 , 0 , 0 , 0.75) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;5&#xa;5 7 1 2 10&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="53" width="116" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=none;fontSize=20;" edge="1" parent="1" source="lY9HGWb-KgKex0W60Guv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="lY9HGWb-KgKex0W60Guv-3" target="lY9HGWb-KgKex0W60Guv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="lY9HGWb-KgKex0W60Guv-3" target="lY9HGWb-KgKex0W60Guv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="379" y="141" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="lY9HGWb-KgKex0W60Guv-7" target="lY9HGWb-KgKex0W60Guv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-7" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="277" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-9" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="327" y="473" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="lY9HGWb-KgKex0W60Guv-11" target="lY9HGWb-KgKex0W60Guv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-11" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="466" y="305" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-13" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="532" y="473" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lY9HGWb-KgKex0W60Guv-15" value="这是题目给定的案例的最优二叉树结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="575" y="133" width="387" height="206" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
