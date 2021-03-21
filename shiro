@@ -1,35 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T13:04:04.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="vMbKGPbDYrxcXGIuVmmQ" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T13:11:59.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="koO5FQw_pZaAS5vYMvDj" version="14.4.9" type="github">
   <diagram id="dEVJppGSCHTdKa8AuB-N" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-1" target="HE0MM-kwIh9KGqTziTCD-2">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-1" target="HE0MM-kwIh9KGqTziTCD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;创建 SecurityManager&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&amp;nbsp;创建 SecurityManager&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#D6625D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="259" y="170" width="196" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-2" target="HE0MM-kwIh9KGqTziTCD-4">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-2" target="HE0MM-kwIh9KGqTziTCD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;主体提交验证&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fillColor=#EA6B66;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;主体提交验证&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fontStyle=1;fillColor=#D6625D;" vertex="1" parent="1">
           <mxGeometry x="270" y="316.5" width="174" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-4" target="HE0MM-kwIh9KGqTziTCD-6">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-4" target="HE0MM-kwIh9KGqTziTCD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-4" value="SecurityManager认证" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fillColor=#EA6B66;fontStyle=1;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-4" value="SecurityManager认证" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fontStyle=1;fontSize=16;fontColor=#FFFFFF;fillColor=#D6625D;" vertex="1" parent="1">
           <mxGeometry x="516" y="316.5" width="184" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-6" target="HE0MM-kwIh9KGqTziTCD-8">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-6" target="HE0MM-kwIh9KGqTziTCD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-6" value="Authenticator认证" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fillColor=#EA6B66;fontStyle=1;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-6" value="Authenticator认证" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fontStyle=1;fontSize=16;fontColor=#FFFFFF;fillColor=#D6625D;" vertex="1" parent="1">
           <mxGeometry x="516" y="456.5" width="183" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HE0MM-kwIh9KGqTziTCD-8" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ffffff&quot;&gt;Realm认证&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fillColor=#EA6B66;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-8" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ffffff&quot;&gt;Realm认证&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;fontStyle=1;fillColor=#D6625D;" vertex="1" parent="1">
           <mxGeometry x="270" y="456.5" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=16;fontColor=#FFFFFF;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-10" target="HE0MM-kwIh9KGqTziTCD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-10" value="创建SecurityManager" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#D6625D;fontSize=16;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="112" y="734" width="214" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=16;fontColor=#FFFFFF;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-11" target="HE0MM-kwIh9KGqTziTCD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-11" value="主体授权" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FFFFFF;strokeWidth=3;fillColor=#D6625D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="116" y="883.5" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=16;fontColor=#FFFFFF;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-13" target="HE0MM-kwIh9KGqTziTCD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-13" value="SecurityManager授权" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FFFFFF;strokeWidth=3;fillColor=#D6625D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="402" y="883.5" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=16;fontColor=#FFFFFF;fontStyle=1" edge="1" parent="1" source="HE0MM-kwIh9KGqTziTCD-15" target="HE0MM-kwIh9KGqTziTCD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-15" value="Authorizer授权" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FFFFFF;strokeWidth=3;fillColor=#D6625D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="1021" width="207" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE0MM-kwIh9KGqTziTCD-17" value="Realm获取角色权限数据" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FFFFFF;strokeWidth=3;fillColor=#D6625D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="1021" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
