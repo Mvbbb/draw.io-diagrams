@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:24:25.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ByVN3-luZIaJTnnkndB8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:27:36.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kMfQLNabm47bp06TjAvf" version="14.4.9" type="github">
   <diagram id="sEEeYLix7VBK9Xo1kriD" name="第 1 页">
     <mxGraphModel dx="1950" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-78" value="&lt;font color=&quot;#cccccc&quot; style=&quot;font-size: 30px&quot;&gt;yzh.im&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-75" value="&lt;font color=&quot;#cccccc&quot; style=&quot;font-size: 30px&quot;&gt;yzh.im&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="5nFl9YT4Leos7Gxo8moa-1" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ffffff&quot;&gt;UsernamePassword&lt;br&gt;AuthenticationFilter&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="-240" y="120" width="180" height="80" as="geometry" />
         </mxCell>
@@ -245,7 +251,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5nFl9YT4Leos7Gxo8moa-67" value="5. 获取用户信息&lt;br style=&quot;font-size: 15px;&quot;&gt;loadUserByUsername()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;" vertex="1" connectable="0" parent="5nFl9YT4Leos7Gxo8moa-66">
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-67" value="5. 获取用户信息&lt;br style=&quot;font-size: 15px;&quot;&gt;loadUserByUsername()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;labelBackgroundColor=none;" vertex="1" connectable="0" parent="5nFl9YT4Leos7Gxo8moa-66">
           <mxGeometry x="-0.4484" y="1" relative="1" as="geometry">
             <mxPoint x="56" as="offset" />
           </mxGeometry>
@@ -259,8 +265,14 @@
             <mxPoint x="1090" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5nFl9YT4Leos7Gxo8moa-73" value="7. 通过 PasswordEncoder 对比 UserDetails 中&lt;br style=&quot;font-size: 15px;&quot;&gt;的密码与 Authentication 中的密码是否一致" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;" vertex="1" connectable="0" parent="1">
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-73" value="7. 通过 PasswordEncoder 对比 UserDetails 中&lt;br style=&quot;font-size: 15px;&quot;&gt;的密码与 Authentication 中的密码是否一致" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="695" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-79" value="&lt;font color=&quot;#cccccc&quot; style=&quot;font-size: 30px&quot;&gt;yzh.im&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="610" y="600" width="100" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5nFl9YT4Leos7Gxo8moa-80" value="&lt;font color=&quot;#cccccc&quot; style=&quot;font-size: 30px&quot;&gt;yzh.im&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="90" width="100" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
