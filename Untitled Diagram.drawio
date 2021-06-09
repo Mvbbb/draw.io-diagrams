@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:31:49.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="tz82hFHpEjaVmDoO1wR4" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:40:24.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="etjm-hEVrOPOVr00MMrx" version="14.6.13" type="github">
   <diagram id="cLIMsRdv4rV4gmPXyNjr" name="Page-1">
     <mxGraphModel dx="1447" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,33 @@
         </mxCell>
         <mxCell id="E5Rc0v6f1dKM8RThOgJQ-8" value="第三阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="583" y="913" width="171" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="E5Rc0v6f1dKM8RThOgJQ-9" target="E5Rc0v6f1dKM8RThOgJQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-9" value="深入熟悉 JAP 的各个模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=3;fillColor=none;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40.13" y="1352" width="227" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="E5Rc0v6f1dKM8RThOgJQ-10" target="E5Rc0v6f1dKM8RThOgJQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-10" value="熟悉 HTTP 登录" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeColor=#333333;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="39.63" y="1468" width="227.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="E5Rc0v6f1dKM8RThOgJQ-12" target="E5Rc0v6f1dKM8RThOgJQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-12" value="代码开发" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeColor=#333333;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.010000000000005" y="1580" width="232.75" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="E5Rc0v6f1dKM8RThOgJQ-14" target="E5Rc0v6f1dKM8RThOgJQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-14" value="代码维护与代码优化" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeColor=#333333;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="38.75" y="1681" width="231.01" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-17" value="编写文档" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeColor=#333333;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.010000000000005" y="1772" width="233.62" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
