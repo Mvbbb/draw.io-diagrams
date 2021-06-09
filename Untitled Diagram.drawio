@@ -1,59 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:16:48.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="kEJMwb86Fuau5sgJ0mMG" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:31:49.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="tz82hFHpEjaVmDoO1wR4" version="14.6.13" type="github">
   <diagram id="cLIMsRdv4rV4gmPXyNjr" name="Page-1">
-    <mxGraphModel dx="1447" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-1" target="YwKeK3psg-IdBp8ohsHB-2">
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="115" y="171" width="496" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-1" target="YwKeK3psg-IdBp8ohsHB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-1" value="熟悉 Oauth2.0协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="108" width="210" height="48" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-1" value="熟悉 Oauth2.0协议" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="242" y="221" width="210" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-2" target="YwKeK3psg-IdBp8ohsHB-3">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-2" target="YwKeK3psg-IdBp8ohsHB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-2" value="深入熟悉 JustAuthPlus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="266" width="201.5" height="49" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-2" value="进一步熟悉 JustAuthPlus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="245.25" y="316" width="201.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-3" target="YwKeK3psg-IdBp8ohsHB-7">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-3" target="YwKeK3psg-IdBp8ohsHB-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;熟悉 JFinal 开发框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.13" y="375" width="191" height="54" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;熟悉 JFinal 开发框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="246.25" y="405" width="199.5" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-7" target="YwKeK3psg-IdBp8ohsHB-9">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-7" target="YwKeK3psg-IdBp8ohsHB-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-7" value="集成 JFinal 与 JustAuthPlus&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="211.25" y="508" width="271.5" height="62" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-7" value="集成 JFinal 与 JustAuthPlus&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="221.56" y="493" width="248.88" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-9" target="YwKeK3psg-IdBp8ohsHB-12">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-9" target="YwKeK3psg-IdBp8ohsHB-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-9" value="熟悉&amp;nbsp;&amp;nbsp;Blade 开发框架" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="651" width="120" height="60" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-9" value="熟悉&amp;nbsp;&amp;nbsp;Blade 开发框架" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="239.5" y="577" width="215" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-12" target="YwKeK3psg-IdBp8ohsHB-14">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-12" target="YwKeK3psg-IdBp8ohsHB-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-12" value="集成 Blade 与 JustAuthPlus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="791" width="120" height="60" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-12" value="集成 Blade 与 JustAuthPlus" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="184" y="658" width="326" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-14" target="YwKeK3psg-IdBp8ohsHB-17">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-14" target="YwKeK3psg-IdBp8ohsHB-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-14" value="熟悉ActFramework 开发框架" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="254.875" y="931" width="184.25" height="55" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-14" value="熟悉ActFramework 开发框架" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="191.43" y="763" width="309.13" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwKeK3psg-IdBp8ohsHB-17" target="YwKeK3psg-IdBp8ohsHB-20">
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" parent="1" source="YwKeK3psg-IdBp8ohsHB-17" target="YwKeK3psg-IdBp8ohsHB-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-17" value="集成&amp;nbsp;ActFramework&amp;nbsp; 与 JustAuthPlus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="1039" width="120" height="60" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-17" value="集成&amp;nbsp;ActFramework&amp;nbsp; 与 JustAuthPlus" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="187.5" y="849" width="317" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="YwKeK3psg-IdBp8ohsHB-20" value="编写文档" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="1179" width="120" height="60" as="geometry" />
+        <mxCell id="YwKeK3psg-IdBp8ohsHB-20" value="编写文档" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="286" y="930" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeWidth=3;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="115" y="389" width="496" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeWidth=3;strokeColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="115" y="913" width="498" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="509" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-5" value="第一阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="588" y="168" width="171" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-7" value="第二阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="588" y="395" width="171" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E5Rc0v6f1dKM8RThOgJQ-8" value="第三阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="583" y="913" width="171" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
