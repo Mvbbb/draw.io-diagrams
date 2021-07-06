@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T12:51:43.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" version="14.7.6" etag="tdvFrHsI6SKvFWSkULdE" type="github"><diagram id="K2K-sjfdKbOVBxke40DU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-06T13:00:27.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="mAkhqEdSJRNSR9nbSJX8" version="14.7.6" type="github">
+  <diagram id="K2K-sjfdKbOVBxke40DU" name="第 1 页">
+    <mxGraphModel dx="2297" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1X5K65cxCMRqdFxgTCB3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="480" />
+              <mxPoint x="40" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1X5K65cxCMRqdFxgTCB3-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-2" value="Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="230" as="sourcePoint" />
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-6" value="1. 请求受限资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-5">
+          <mxGeometry x="-0.1598" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-7" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="480" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="230" />
+              <mxPoint x="550" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-8" value="&amp;nbsp;httpapiStrategy.authenticate 判断&lt;br&gt;请求信息没有 Authentication 请求头" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-7">
+          <mxGeometry x="-0.1411" relative="1" as="geometry">
+            <mxPoint x="70" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="40" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-10" value="2. 返回 HTTP 响应&lt;br&gt;WWW-Authenticate: Basic releam=&quot;.&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-9">
+          <mxGeometry x="0.2563" relative="1" as="geometry">
+            <mxPoint x="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-12" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="40" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="310" />
+              <mxPoint x="-10" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-13" value="用户输入账号密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-12">
+          <mxGeometry x="-0.1166" y="2" relative="1" as="geometry">
+            <mxPoint x="-12" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="390" as="sourcePoint" />
+            <mxPoint x="480" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-15" value="3. 再次请求受限资源，携带 Authorization请求头&lt;br&gt;Authorization: Basic fjwefiwoeyYUfweh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-14">
+          <mxGeometry x="-0.2647" y="2" relative="1" as="geometry">
+            <mxPoint x="58" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-16" value="" style="endArrow=classic;html=1;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="390" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-17" value="httpapiStrategy.authenticate 判断&lt;br&gt;请求信息中携带有 Authentication 请求头，&lt;br&gt;对认证信息进行校验。校验通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-16">
+          <mxGeometry x="-0.1529" y="4" relative="1" as="geometry">
+            <mxPoint x="86" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="460" as="sourcePoint" />
+            <mxPoint x="40" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1X5K65cxCMRqdFxgTCB3-19" value="4. 返回受限资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1X5K65cxCMRqdFxgTCB3-18">
+          <mxGeometry x="0.3862" y="-3" relative="1" as="geometry">
+            <mxPoint x="55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
