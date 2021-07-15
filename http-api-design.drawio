@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T03:54:32.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="vNYUUD1Y7X88PCQxGLQ6" version="14.8.5" type="github"><diagram id="p_AuhkS08W-NJMHdNWWe" name="Page-1">3Vjfb5swEP5r/NgKAwbzCAnZHjZtU6Vue6TFSZhIzIjTJP3rdz7Mr0LWZO2aaVIU2Yd9Pt99990BcSar/bsyKZYfZSpyYlvpnjhTYtu+y+FfCw6VwHXcSrAos7QS0VZwkz0KI7SMdJulYtNbqKTMVVb0hfdyvRb3qidLylLu+svmMu+fWiQLMRDc3Cf5UPo1S9WyknLbb+XvRbZY1idTL6ierJJ6sbnJZpmkctcROTFxJqWUqhqt9hORa9/Vfqn2zY48bQwrxVqdsuHLp4P/NZjcfo65zW5vH1fRl9mVic5GHeoLixTub6ayVEu5kOskj1tpVMrtOhVaqwWzds0HKQsQUhD+EEodTDCTrZIgWqpVbp5WZ+qDjl7FiDZyW96L39hfQyIpF0L9Zp3dOByAKuRKqPIA+0qRJyp76NuRGMgsmnWtV2FgHHuGkw0iHpJ8a04icUCCCeEWiTkJPcIpieF/RgKQuCSKSRCReEaiCQlCYns53C26K2G00CN6DepI7JNwon96Byc80DoCj0TVANRPScwID0lIcXFEwpkegEru4iAgUaTXRFMSMDQhJiHDXTMSOnoAeiILB1Nt78AWW9vyXqkCTeL6iMjXqiJKuN0xienbgNqBBucZDWiMUcXQGHQM53gFl4QcLee4i2kXwsUhYDAGVdzDu1vo42pjMAr6D8kdUFcPqEmeLdYwzsVcG/ogSpUBNYRGvMrStMoIsckekzvUpnOikNlaIYpYRNi0gbxWIPZjvGU2t2zRTYbjmTtEtNF+ZV1T5pjsPhnlRt1nbX5Hl2/1t8j5fAPZ9jQtGiv+PFPoSKZUuLEMDgKqIQJTjniF2GtwIzoDfxDXlqp0OHfLTImbIkFG2UG5GqOlkRgNiOmo222PVVtMtXM847pdWztoHeJlp2541vGovIh7KLsEw4O7ysM3sx8n3/XkmtXT6b77cHows1esDPaJlYFetDTYA8BrIrxKigzJ8N8DuOv2AM48+5oNIe6PQJz9LYg7J5XXYbXrFMI/qKOXjoRXU0YdCeaPReJNyeYiXPOKnOGeyhmXpAxvBO7DpmkI96r3mbyw9Ty75/oPWi32XKvlNK3WoXfiSxsv5ve0um/VhrkjEBuGHbCGLZnGkY/tONOgC4fvlJduw5pQX64NG5but2jD9pn61hl3mjCYtT2YntQt2D/QutFTezfnkjxcW9nNEkOXc4lp3Abb+7mV9YOrDYYLuNWitNi3D1uKxbdcjm868BLO2XkvQW1jA3J4n3dNfdAKgeBnuBiJX38OaMoCsnhAz2yH6pRvDQvQMDp2+rBMNaf7uuxEvK5XDp4e6u8RxgzLDMIQBxF+nvCx8ni13yGOleuNIwcpl+dZsRHPc9CTaqSVmiSj1utQlOs+ad/sE9toWi88A9Awbb8zVkWi/VjrxL8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-15T04:17:51.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="MGAc5bcJugSBcLpBMhwf" version="14.8.6" type="github">
+  <diagram id="p_AuhkS08W-NJMHdNWWe" name="Page-1">
+    <mxGraphModel dx="997" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QOy7W9CVPE825VVzmBQF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QOy7W9CVPE825VVzmBQF-1" target="QOy7W9CVPE825VVzmBQF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-9" value="需要提供：&lt;br&gt;1. 第三方服务端的登录接口地址&lt;br&gt;2. Http 请求方式&lt;br&gt;3. Http 请求参数（用户名/密码）" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="QOy7W9CVPE825VVzmBQF-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.1538" relative="1" as="geometry">
+            <mxPoint x="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-1" value="开发者模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QOy7W9CVPE825VVzmBQF-2" target="QOy7W9CVPE825VVzmBQF-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-2" value="Http-api 模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="244" y="562.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-3" value="需要登录的第三方服务端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="557.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QOy7W9CVPE825VVzmBQF-4" target="QOy7W9CVPE825VVzmBQF-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-6" value="请求登录，需要提供：&lt;br&gt;用户名/密码" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="QOy7W9CVPE825VVzmBQF-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.3538" y="1" relative="1" as="geometry">
+            <mxPoint x="-57" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-4" value="用户浏览器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QOy7W9CVPE825VVzmBQF-12" target="QOy7W9CVPE825VVzmBQF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOy7W9CVPE825VVzmBQF-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;封装开发者模块的认证信息，向第三方服务器发送认证请求，相当于一个代理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="440" y="525" width="170" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-1" target="v0BDX90ooCMmWKhYHN8K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-6" value="1. 以参数的方式传递认证信息&lt;br&gt;2. 以 Header 的方式传递认证信息&lt;br&gt;3. 在 Body 中以 Json 的形式传递认证信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0BDX90ooCMmWKhYHN8K-5">
+          <mxGeometry x="-0.3989" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-1" value="用户浏览器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-8" value="指定第三方服务端 Http 认证方式&lt;br&gt;1. Basic&lt;br&gt;2. Digest&lt;br&gt;3. Bearer&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-2" target="v0BDX90ooCMmWKhYHN8K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-2" value="开发者模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-3" target="v0BDX90ooCMmWKhYHN8K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-12" value="根据配置的认证方式与提供的认证信息&lt;br&gt;向第三方发起认证请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0BDX90ooCMmWKhYHN8K-10">
+          <mxGeometry x="-0.1989" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-3" value="Http-api 模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1110" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-4" target="v0BDX90ooCMmWKhYHN8K-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-15" value="认证结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0BDX90ooCMmWKhYHN8K-13">
+          <mxGeometry x="-0.1925" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-4" value="需要登录的第三方服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-7" value="认证信息包含：&lt;br&gt;1. 用户名&lt;br&gt;2. 密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-9" value="在 HttpApiAuthConfig 中配置" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1000" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-16" value="处理认证结果。&lt;br&gt;使用 JapUserService 实现类将用户信息保存&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-14" target="v0BDX90ooCMmWKhYHN8K-17">
+          <mxGeometry x="-0.4118" relative="1" as="geometry">
+            <mxPoint x="720" y="1040" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-18" value="概要认证结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0BDX90ooCMmWKhYHN8K-16">
+          <mxGeometry x="0.6651" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-14" value="Http-api 模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1140" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0BDX90ooCMmWKhYHN8K-17" target="v0BDX90ooCMmWKhYHN8K-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-20" value="处理结果，返回给用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0BDX90ooCMmWKhYHN8K-19">
+          <mxGeometry x="0.1827" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-17" value="开发者模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-21" value="用户浏览器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
