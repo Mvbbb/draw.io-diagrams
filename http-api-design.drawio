@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T08:32:41.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="ymzNdI-jomf5umGK1j6R" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T11:46:42.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 Edg/91.0.864.71" etag="bcRDSSkNCaS9TwdE00OZ" version="14.9.1" type="github">
   <diagram id="p_AuhkS08W-NJMHdNWWe" name="Page-1">
-    <mxGraphModel dx="997" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="v0BDX90ooCMmWKhYHN8K-1" value="用户浏览器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v0BDX90ooCMmWKhYHN8K-8" value="指定第三方服务端 Http 认证方式&lt;br&gt;1. Basic&lt;br&gt;2. Digest&lt;br&gt;3. Bearer&lt;br&gt;指定第三方服务端提供的登陆接口地址&lt;br&gt;提供第三方服务端登陆接口的HTTP 方法&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v0BDX90ooCMmWKhYHN8K-2" target="v0BDX90ooCMmWKhYHN8K-3" edge="1">
+        <mxCell id="v0BDX90ooCMmWKhYHN8K-8" value="指定第三方服务端 Http 认证方式&lt;br&gt;1. Basic&lt;br&gt;2. Digest&lt;br&gt;3. Bearer&lt;br&gt;指定第三方服务端提供的登陆接口地址&lt;br&gt;提供第三方服务端登陆接口的HTTP 方法&lt;br&gt;提供用户认证信息存放位置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v0BDX90ooCMmWKhYHN8K-2" target="v0BDX90ooCMmWKhYHN8K-3" edge="1">
           <mxGeometry x="-0.1429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -88,7 +88,7 @@
           <mxGeometry x="345" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-9" value="在 HttpApiAuthConfig 中配置" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="960" width="200" height="60" as="geometry" />
+          <mxGeometry x="340" y="990" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-16" value="处理认证结果。&lt;br&gt;使用 JapUserService 实现类将用户信息保存&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v0BDX90ooCMmWKhYHN8K-14" target="v0BDX90ooCMmWKhYHN8K-17" edge="1">
           <mxGeometry x="-0.4118" relative="1" as="geometry">
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-20" value="处理结果，返回给用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v0BDX90ooCMmWKhYHN8K-19" vertex="1" connectable="0">
           <mxGeometry x="0.1827" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-17" value="开发者模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
