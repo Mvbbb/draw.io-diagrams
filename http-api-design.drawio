@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T12:26:15.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="PnnlzPTow3kI3XjqwPdb" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T12:31:10.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="1wq0oZiEnU7ZxDJ27GE8" version="14.9.3" type="github">
   <diagram id="p_AuhkS08W-NJMHdNWWe" name="Page-1">
     <mxGraphModel dx="1728" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="1">
       <root>
@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-6" value="1. 以参数（URL）的方式传递认证信息&lt;br style=&quot;font-size: 15px;&quot;&gt;2. 以 Header 的方式传递认证信息&lt;br style=&quot;font-size: 15px;&quot;&gt;3. 在 Body 中以 Json 的形式传递认证信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="v0BDX90ooCMmWKhYHN8K-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3989" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0BDX90ooCMmWKhYHN8K-1" value="用户浏览器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
