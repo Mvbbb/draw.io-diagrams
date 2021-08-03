@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:07:08.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="8A1EYgXnNvzVq9T7r3ht" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T14:00:31.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="1LHnZkNRvhTpf7ivsaAA" version="14.9.3" type="github">
   <diagram id="MbsRHVdoLsepc1gQsyZ3" name="Page-1">
-    <mxGraphModel dx="1902" dy="1294" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="2142" dy="1328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,28 +12,58 @@
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-1" target="PZtxpJgXiGHBo1VZ4WXd-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49.5999755859375" y="184.79998779296875" as="targetPoint" />
+            <mxPoint x="70.5999755859375" y="179.79998779296875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-1" target="PZtxpJgXiGHBo1VZ4WXd-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2" y="234" as="targetPoint" />
+            <mxPoint x="23" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-1" value="new maven project" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#F5AB50;strokeColor=#909090;fontSize=17;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-96" y="-3" width="120" height="60" as="geometry" />
+          <mxGeometry x="-75" y="-8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-2" target="PZtxpJgXiGHBo1VZ4WXd-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-2" value="new client maven moudle" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=17;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-358" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-337" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-11" target="PZtxpJgXiGHBo1VZ4WXd-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-11" value="new common maven module" style="whiteSpace=wrap;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="193" width="120" height="60" as="geometry" />
+          <mxGeometry x="-175" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-15" target="PZtxpJgXiGHBo1VZ4WXd-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-15" value="new restweb maven module" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
-          <mxGeometry x="163" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="184" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-17" target="PZtxpJgXiGHBo1VZ4WXd-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZtxpJgXiGHBo1VZ4WXd-17" value="new message maven module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="7" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-28" target="PZtxpJgXiGHBo1VZ4WXd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-28" value="编写 MessageEven 接口，MessageEvenPool" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
+          <mxGeometry x="668" y="333" width="308" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#182E3E;strokeWidth=3;" edge="1" parent="1" source="PZtxpJgXiGHBo1VZ4WXd-30" target="PZtxpJgXiGHBo1VZ4WXd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-30" value="MessageAction，MessageActionEnum" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
+          <mxGeometry x="684" y="481" width="276" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-31" value="ProtocBuf 协议" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
+          <mxGeometry x="744" y="613" width="156" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PZtxpJgXiGHBo1VZ4WXd-32" value="先开发web模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="370" width="150" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
